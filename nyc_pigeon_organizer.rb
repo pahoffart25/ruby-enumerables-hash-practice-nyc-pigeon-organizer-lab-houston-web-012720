@@ -3,7 +3,7 @@ def nyc_pigeon_organizer(data)
     "Theo" => {
       :color => ["purple", "grey"],
       :gender => ["male"],
-      :lives => ["the subway"]
+      :lives => ["Subway"]
     },
   }
 end
